@@ -3,6 +3,11 @@ Meeting repository for the LSST DESC 2022 Sprint Week
 
 Check the <a href="https://github.com/LSSTDESC/SprintWeek2022/issues">issue page</a> to see the list of sprints.
 
+## How to request a tutorial
+
+Use the following link to request a tutorial on a particular topic at the Sprint week:
+  - <a href="https://github.com/LSSTDESC/SprintWeek2022/issues/new?assignees=&labels=tutorial+request&template=tutorial-request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial" target="_blank"  >New Tutorial Request</a>
+
 ## How to propose a sprint
 
 Use of the links below to propose a sprint:
